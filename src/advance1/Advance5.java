@@ -1,6 +1,8 @@
+package advance1;
+
 import java.util.Scanner;
 
-public class Main {
+public class Advance5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] arr = new int[26]; // 영문자의 개수는 26개
